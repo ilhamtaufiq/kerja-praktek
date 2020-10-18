@@ -23,7 +23,7 @@ pengolahan data untuk keperluan operasional, kontrol, maupun strategis.
 Tidak hanya itu, perusahan juga dapat sangat terbantu dengan inovasi dan
 kemajuan teknologi yang ada. Karena dengan adanya inovasi teknologi
 informasi perusahan dapat menyelesaika perkerjaan dalam waktu yang
-cepat, hasil yang tepat dengan biaya yang hemat.
+cepat, hasil yang tepat dengan biaya  hemat.
 
 Bidang Air Bersih dan Sanitasi pada Dinas Perumahan Kawasan Permukiman
 dan Pertanahan Kabupaten Cianjur merupakan...
